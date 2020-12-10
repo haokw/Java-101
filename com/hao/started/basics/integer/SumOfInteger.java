@@ -1,5 +1,8 @@
-package com.hao.basics.integer;
+package com.hao.started.basics.integer;
 
+/**
+ * Sum of integers.
+ */
 public class SumOfInteger {
     public static void main(String[] args) {
         int n = 100;
