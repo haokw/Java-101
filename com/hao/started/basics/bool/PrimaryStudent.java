@@ -1,5 +1,8 @@
-package com.hao.basics.bool;
+package com.hao.started.basics.bool;
 
+/**
+ * Is primary student?
+ */
 public class PrimaryStudent {
     public static void main(String[] args) {
         int age = 7;

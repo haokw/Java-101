@@ -1,5 +1,8 @@
-package com.hao.basics.decimal;
+package com.hao.started.basics.decimal;
 
+/**
+ * 求解 一元二次方程ax^2+bx+c=0
+ */
 public class Main {
     public static void main(String[] args) {
         // a * x ^ 2 + b * x + c = 0

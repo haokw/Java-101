@@ -1,5 +1,8 @@
-package com.hao.basics.string;
+package com.hao.started.basics.string;
 
+/**
+ * char and String
+ */
 public class JoinChar {
     public static void main(String[] args) {
         // 请将下面一组int值视为字符的Unicode码，把它们拼成一个字符串：
